@@ -1,8 +1,5 @@
 import {
-  FaFacebook,
-  FaFacebookF,
   FaGoogle,
-  FaLinkedin,
   FaLinkedinIn,
 } from "react-icons/fa";
 import "./App.css";
