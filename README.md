@@ -2,7 +2,7 @@
 
 This User Interface is `responsive for both web and mobile version.` 
 ㅤㅤ
-## Web View
+### Web View
 ![image](https://github.com/devJennyy/simple-login-form/assets/135243946/504713ef-7279-4c0f-af12-d73b5e348f4f)
 ㅤ
 ㅤ
