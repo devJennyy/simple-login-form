@@ -1,30 +1,11 @@
-# React + TypeScript + Vite
+# Fully Responsive Login Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This User Interface is responsive for both web and mobile version.
 
-Currently, two official plugins are available:
+## Web View
+![image](https://github.com/devJennyy/simple-login-form/assets/135243946/504713ef-7279-4c0f-af12-d73b5e348f4f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Mobile View
+![image](https://github.com/devJennyy/simple-login-form/assets/135243946/735381f8-b5f4-490c-8ee4-8a4fd8342d15)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
