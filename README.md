@@ -7,8 +7,7 @@ A web and mobile-friendly login form https://simple-login-form-devjenny.vercel.a
 - TailwindCSS
 
 <br>
-![image](https://github.com/devJennyy/simple-login-form/assets/135243946/1aed43e6-8623-49a3-87ac-1bd52e99532f)
-
+![image](https://github.com/devJennyy/simple-login-form/assets/135243946/103fd2c4-b210-4477-998b-3518ae0bb779)
 
 ***
 
