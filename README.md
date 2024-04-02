@@ -1,6 +1,9 @@
 # Simple Login Form
 A web and mobile-friendly login form https://simple-login-form-devjenny.vercel.app/
 
+## Available Screen Sizes
+- 1920 pixels width (desktop/laptop)
+- Mobile devices (supported)
 
 ## Tech Used
 - React
